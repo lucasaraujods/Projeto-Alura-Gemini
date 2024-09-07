@@ -42,9 +42,4 @@ Agradeço à Alura e ao Gemini AI pela oportunidade de aprender e desenvolver es
 
 **Considerações:**
 
-* **Estrutura:** Utilize o Markdown para formatar o texto, como listas, títulos e código.
-* **Clareza:** Explique as funcionalidades de forma clara e concisa.
-* **Concisão:** Mantenha o README conciso e fácil de entender.
-* **Atualizações:** Mantenha o README atualizado à medida que a aplicação evolui.
-
 * **O link do projeto versionado:** https://projeto-alura-gemini-omega.vercel.app/
