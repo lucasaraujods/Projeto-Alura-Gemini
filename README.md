@@ -13,6 +13,7 @@ Como Usar:
 Digite o nome do exercício ou grupo muscular no campo de pesquisa.
 Clique no botão "Pesquisar".
 Os resultados serão exibidos abaixo do campo de pesquisa.
+
 Funcionalidades:
 
 Pesquisa por texto: Pesquise por palavras-chave nos títulos, descrições e tags dos exercícios.
