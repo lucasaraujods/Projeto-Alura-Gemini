@@ -40,11 +40,6 @@ Agradeço à Alura e ao Gemini AI pela oportunidade de aprender e desenvolver es
 
 ---
 
-**Recursos Adicionais:**
-
-* **Diagrama de Fluxo:** [Incluir um diagrama de fluxo simplificado da aplicação, se disponível]
-* **Imagens:** [Incluir imagens da interface da aplicação, se disponíveis]
-
 **Considerações:**
 
 * **Estrutura:** Utilize o Markdown para formatar o texto, como listas, títulos e código.
@@ -52,30 +47,4 @@ Agradeço à Alura e ao Gemini AI pela oportunidade de aprender e desenvolver es
 * **Concisão:** Mantenha o README conciso e fácil de entender.
 * **Atualizações:** Mantenha o README atualizado à medida que a aplicação evolui.
 
-**Exemplo de Diagrama de Fluxo (simplificado):**
-```mermaid
-flowchart LR
-    A[Usuário digita a pesquisa] --> B{Pesquisar no banco de dados}
-    B -- Resultados encontrados --> C{Exibir resultados}
-    B -- Resultados não encontrados --> D{Exibir mensagem de erro}
-```
-
-**Exemplo de Imagem:**
-[Incluir uma imagem da interface da aplicação, por exemplo, um screenshot da página principal]
-
-**Dicas:**
-
-* Utilize ferramentas como o GitHub Markdown Guide para aprender mais sobre a sintaxe do Markdown.
-* Crie um README claro e conciso para ajudar outros desenvolvedores a entender a sua aplicação.
-* Mantenha o README atualizado para que ele reflita o estado atual da sua aplicação.
-
-**Com este README bem estruturado, você estará facilitando a colaboração e o entendimento da sua aplicação por outros desenvolvedores.**
-
-**Gostaria de adicionar mais alguma coisa ou tem alguma outra pergunta?** 
-
-**Observação:** Para uma análise mais detalhada do seu código e sugestões mais específicas, por favor, forneça o conteúdo do arquivo `dados.js` e qualquer outra informação relevante sobre a estrutura do seu projeto.
-
-**Este README oferece uma base sólida para o seu projeto. Adapte-o às suas necessidades específicas e adicione mais detalhes para torná-lo ainda mais completo.**
-
-
-O link do projeto versionado: https://projeto-alura-gemini-omega.vercel.app/
+* **O link do projeto versionado:** https://projeto-alura-gemini-omega.vercel.app/
